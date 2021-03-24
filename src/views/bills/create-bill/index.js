@@ -14,8 +14,9 @@ function createBills(props) {
               </a>
               <div className="card-body">
                 <a href="product.html">
-                  <h2>Sandwich</h2>
+                  <h2>Nike Slim Shirts</h2>
                 </a>
+
                 <div className="price">$120</div>
               </div>
             </div>
