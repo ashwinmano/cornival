@@ -4,7 +4,7 @@ const data = {
         _id: '1',
         name: 'Sandwich',
         category: 'food',
-        image: 'D:\carnival\dashboard\coreui-free-react-admin-template\public\images\p1.jpg',
+        image: '/images/p2.jpg',
         price: 120,
         countInStock: 10,
         description: 'high quality product',
